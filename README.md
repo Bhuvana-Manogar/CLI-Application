@@ -4,7 +4,8 @@ This project involves creating a CLI application that integrates with a flight d
 
 
 # ER DIAGRAM
-<img width="669" height="382" alt="image" src="https://github.com/user-attachments/assets/dc9372d1-d975-4cc6-b09a-e23599a6e253" />
+<img width="756" height="408" alt="image" src="https://github.com/user-attachments/assets/1f3869fa-ec4f-433d-8be1-4b23c23b2956" />
+
 
 
 
